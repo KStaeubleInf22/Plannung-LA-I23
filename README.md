@@ -21,8 +21,7 @@ Versuchen eine Leuchtsignal-Pistole zu erstellen
 ### Testfälle
 | Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | ---|
-| 1 |	Programm in VS geöffnet	| Klicke in VS auf ▶️	| Hallo Nico	| 🤷 |
-| 2	|Programm in VS geöffnet |	Klicke in VS auf ▶️	| Hallo Max Muster, die Zahl ist 57 (wobei 57 eine Zufallszahl zwischen 1 und 100 ist.)	| 🤷 |
-| 3 |	Programm in VS geöffnet, mit ▶️ | gestartet	42	| Hallo Max Muster, Deine Zahl ist 42	| 🤷 |
-| 4 |	Programm in VS geöffnet, mit ▶️ | gestartet	42	| Hallo Max Muster, Deine Zahl ist kleiner als 50	| 🤷 |
-| 5 |	Programm in VS geöffnet, mit ▶️ | gestartet	84	| Hallo Max Muster, Deine Zahl ist grösser als 50 | 	🤷 |
+| 1 |	Programm in VS geöffnet,  mit ▶️	| click auf W,A,S,D	| Der spieler kann durch das labyrinth navigieren	| 🤷 |
+| 2	|Programm in VS geöffnet,  mit ▶️ |	Left click	| Ein schuss wird ausgeschossen das die umgebung aufleuchtet.	| 🤷 |
+| 3 |	Programm in VS geöffnet, mit ▶️ | Still stehen	| Eventuell wird das KI den spieler erreichen.	| 🤷 |
+| 4 |	Programm in VS geöffnet, mit ▶️ | Still stehen	| Wenn der spieler von der KI erreicht wird, ist das Spiel vorbei.	| 🤷 |
