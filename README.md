@@ -17,6 +17,7 @@ Versuchen eine Leuchtsignal-Pistole zu erstellen
 [ ] Eine Waffe, die als Licht-source benutzt werden kann. (2)
 [ ] Eine KI, die sich durch das laybrinth zum Spieler navigieren kann. (3)
 [ ] Das KI kann den spieler mit einer berührung töten. (4)
+
 |Nummer|	Vorbereitung|	Eingabe|	Erwartete Ausgabe|	Erfüllt?|
 |1|	Programm in VS geöffnet	|Klicke in VS auf ▶️	|Hallo Nico	🤷|
 |2	|Programm in VS geöffnet|	Klicke in VS auf ▶️	|Hallo Max Muster, die Zahl ist 57 (wobei 57 eine Zufallszahl zwischen 1 und 100 ist.)	🤷|
