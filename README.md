@@ -7,10 +7,10 @@ Ich werde ein simples Horrorspiel programmieren.
 
 In meinem Projekt möchte ich mich besser bekannt mit Unreal Engine machen. Ich möchte ein simples Horrorspiel programmieren dass nicht zu ambitiös ist aber trozdem ein interesantes spiel sein könnte.
 
-Arbeitspakete für 25.8.2023
+## Arbeitspakete für 25.8.2023
 Unreal Engine Projekt anfangen und sich mit Unreal engine bekannt machen.
 
-Arbeitspakete für 01.9.2023
+## Arbeitspakete für 01.9.2023
 Versuchen eine Leuchtsignal-Pistole zu erstellen
 
 - [ ] Ein neues Unreal Engine Project, bei welchem der Spieler in einem Labyrinth herumlaufen kann. (1)
