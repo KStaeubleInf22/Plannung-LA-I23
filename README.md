@@ -13,10 +13,10 @@ Unreal Engine Projekt anfangen und sich mit Unreal engine bekannt machen.
 Arbeitspakete für 01.9.2023
 Versuchen eine Leuchtsignal-Pistole zu erstellen
 
-[ ] Ein neues Unreal Engine Project, bei welchem der Spieler in einem Labyrinth herumlaufen kann. (1)
-[ ] Eine Waffe, die als Licht-source benutzt werden kann. (2)
-[ ] Eine KI, die sich durch das laybrinth zum Spieler navigieren kann. (3)
-[ ] Das KI kann den spieler mit einer berührung töten. (4)
+- [ ] Ein neues Unreal Engine Project, bei welchem der Spieler in einem Labyrinth herumlaufen kann. (1)
+- [ ] Eine Waffe, die als Licht-source benutzt werden kann. (2)
+- [ ] Eine KI, die sich durch das laybrinth zum Spieler navigieren kann. (3)
+- [ ] Das KI kann den spieler mit einer berührung töten. (4)
 
 ### Testfälle
 | Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
