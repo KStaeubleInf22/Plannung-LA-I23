@@ -27,10 +27,19 @@ Ich habe noch keine von diesen Zielen erfüllt. Ich habe mich entschieden ein an
 - [ ] Mich mit Winforms bekannt machen. (3)
 - [ ] Versuchen die applikation in Winforms einfügen. (4)
 
+Ich habe mich mit meinem Nummer Generator weiter bekannt gemacht aber habe mich zum grossteil auf Modul 431 und Modul 319 fokussiert. Da ich am Mittwoch nicht viel am Modul 431 arbeiten konnte, habe ich heute nachgeholt was ich am mittwoch verpasst habe. Ich habe auch an dem Portfolio für das Modul 319 gearbeitet, weil ich noch etwas zurückliege beim Portfolio. Ich konnte also nicht daran arbeiten, ein Winforms für meinen Nummer Generator zu machen, sowohl als auch an meinem Unreal Engine Projekt zu arbeiten.
+
+## Arbeitspakete für 22.9.2023
+
+- [ ] Mein alten Nummer Generator fertigstellen. (1)
+- [ ] An Modul 431 Arbeiten. (2)
+- [ ] Am Portfolio für 319 weiter arbeiten. (3)
+- [ ] Versuchen die applikation in Winforms einfügen. (4)
+
 ### Testfälle
 | Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | ---|
-| 1 |	Programm in VS geöffnet,  mit ▶️	| click auf W,A,S,D	| Der spieler kann durch das labyrinth navigieren	| 🤷 |
-| 2	|Programm in VS geöffnet,  mit ▶️ |	Left click	| Ein schuss wird ausgeschossen das die umgebung aufleuchtet.	| 🤷 |
-| 3 |	Programm in VS geöffnet, mit ▶️ | Still stehen	| Eventuell wird das KI den spieler erreichen.	| 🤷 |
-| 4 |	Programm in VS geöffnet, mit ▶️ | Still stehen	| Wenn der spieler von der KI erreicht wird, ist das Spiel vorbei.	| 🤷 |
+| 1 |	Programm in VS geöffnet,  mit ▶️	| Programm start	| Der Spieler Wird informiert. dass er eine Zahl zwischen 1 und 100 wählen muss.	| Ja |
+| 2	|Programm in VS geöffnet,  mit ▶️ |	Eingaben Zahlen	| Das Programm Sagt dem Spieler ob die Zahl zu gross oder zu klein ist, ausser er erät sie.	| Ja |
+| 3 |	Programm in VS geöffnet, mit ▶️ | Eingabe mehreren Zaheln	| Das Spiel endet wenn die Zahl erraten wurde oder 7 versuche aufgebraucht wurden .	| Ja |
+| 4 |	Programm in VS geöffnet, mit ▶️ | Programm start	| Das Spiel benutzt Winforms.	| Nein |
