@@ -36,6 +36,8 @@ Ich habe mich mit meinem Nummer Generator weiter bekannt gemacht aber habe mich 
 - [ ] Am Portfolio für 319 weiter arbeiten. (3)
 - [ ] Versuchen die applikation in Winforms einfügen. (4)
 
+Heute habe ich am Modul 431 Gearbeitet, Ich bin schon weit im Modul, aber ich habe noch einpaar Module übrig, sowohl als auch das Portfolio das ich für M431 und M319 machen muss. Ich konnte leider das Visual Studio Projekt nicht fertigstellen, das Unreal Engine 5 Projekt konnte ich nicht einmal anfangen. Die Module hatten Priorität über die Projekte die ich im Lernatelier angefangen habe.
+
 ### Testfälle
 | Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | ---|
@@ -43,3 +45,14 @@ Ich habe mich mit meinem Nummer Generator weiter bekannt gemacht aber habe mich 
 | 2	|Programm in VS geöffnet,  mit ▶️ |	Eingaben Zahlen	| Das Programm Sagt dem Spieler ob die Zahl zu gross oder zu klein ist, ausser er erät sie.	| Ja |
 | 3 |	Programm in VS geöffnet, mit ▶️ | Eingabe mehreren Zaheln	| Das Spiel endet wenn die Zahl erraten wurde oder 7 versuche aufgebraucht wurden .	| Ja |
 | 4 |	Programm in VS geöffnet, mit ▶️ | Programm start	| Das Spiel benutzt Winforms.	| Nein |
+
+# Reflexion
+
+## Erfolge
+Ich habe während diesen 5 Wochen mein C# auffrischen und konnte mich generell verbessern. Ich konnte mich aber leider nicht mit Winforms und Unreal Engine 5 bekannt machen wie ich es gehoft hätte. Ich habe mich aber am meisten auf das Modul 431 Fokussiert. Ich habe viele der Module im Unterricht fertig gestellt, weil es ein Idealer ort dafür ist und weil Modul 431 momenthan Priorität hat über die anderen Module.
+
+## Muster
+Am Anfang des Schuljahrs war ich mehr fokussiert auf das Visual Studio Projekt und habe mich nicht sehr auf die Module fokussiert. Nach einpaar Wochen, habe ich angefangen mich mehr um meine Module zu kümmern anstatt das Visual Studio Projekt. 
+
+## Verbesserungsvorschlag
+Ich werde beim Nächsten Lernatelier-Projekt versuch, weniger ambitious zu sein und mehrere Projekte anfangen. Ich werde mich vermutlich eher auf die Module fokussieren und dann so 30min- 1h lang an Lernatelier-Projekte arbeiten.
