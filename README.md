@@ -49,10 +49,10 @@ Heute habe ich am Modul 431 Gearbeitet, Ich bin schon weit im Modul, aber ich ha
 ## Reflexion
 
 ### Erfolge
-Ich habe während diesen 5 Wochen mein C# auffrischen und konnte mich generell verbessern. Ich konnte mich aber leider nicht mit Winforms und Unreal Engine 5 bekannt machen wie ich es gehoft hätte. Ich habe mich aber am meisten auf das Modul 431 Fokussiert. Ich habe viele der Module im Unterricht fertig gestellt, weil es ein Idealer ort dafür ist und weil Modul 431 momenthan Priorität hat über die anderen Module.
+Ich habe während diesen 5 Wochen mein C# auffrischen und konnte mich generell verbessern. Ich konnte mich aber leider nicht mit Winforms und Unreal Engine 5 bekannt machen wie ich es gehoft hätte. Manchmal habe ich auch für Kanti Test geübt oder am Portfolio für das Modul 319 Gearbeitet, aber am meisten habe mich aber am meisten auf das Modul 431 Fokussiert. Ich habe viele der Module im Unterricht fertig gestellt, weil es ein Idealer ort dafür ist und weil Modul 431 momenthan Priorität hat über die anderen Module.
 
 ### Muster
-Am Anfang des Schuljahrs war ich mehr fokussiert auf das Visual Studio Projekt und habe mich nicht sehr auf die Module fokussiert. Nach einpaar Wochen, habe ich angefangen mich mehr um meine Module zu kümmern anstatt das Visual Studio Projekt. 
+Am Anfang des Schuljahrs war ich mehr fokussiert auf das Visual Studio Projekt und habe mich nicht sehr auf die Module fokussiert. Nach einpaar Wochen, habe ich angefangen mich mehr um meine Module zu kümmern anstatt das Visual Studio Projekt. In den letzten paar wochen habe ich mich nicht mehr auf Visual Studio fokussiert und habe nur am Modul 431 gearbeitet oder für Test die wir an der Kanti haben werden geübt.
 
 ### Verbesserungsvorschlag
-Ich werde beim Nächsten Lernatelier-Projekt versuch, weniger ambitious zu sein und mehrere Projekte anfangen. Ich werde mich vermutlich eher auf die Module fokussieren und dann so 30min- 1h lang an Lernatelier-Projekte arbeiten.
+Ich werde beim Nächsten Lernatelier-Projekt versuch, weniger ambitious zu sein und vermeiden mehrere Projekte anzufangen. Ich werde mich vermutlich eher auf die Module fokussieren und dann ungefähr 30min- 1h lang an Lernatelier-Projekte arbeiten. 
